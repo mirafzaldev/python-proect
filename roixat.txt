@@ -1,0 +1,77 @@
+
+    F.I.O: 
+    birichsiga: matni
+    salat: al
+    ichishmilk : coffee
+    diser: tart qaymoqli
+    
+    F.I.O: 
+    birichsiga: matni
+    salat: achichiq chuchuq
+    ichishmilk : coffee
+    diser: muz_qaymoq
+    ummumi xisobda: 28000 so'm tolandi
+    
+    F.I.O: 
+    birichsiga: matni
+    salat: fransuzki
+    ichishmilk : coffee
+    diser: pirojni
+    ummumi xisobda: 27000 so'm tolandi
+    
+    ismi: Mirafzal
+    telefon raqami: 942182609
+    birichsiga: qozon kabob
+    salat: fransuzki
+    ichishmilk : cola 1.5
+    diser: tort qaymoqli
+    ummumi xisobda: 70000 so'm tolandi
+    
+    ismi: Mirafzal
+    telefon raqami: 942182609
+    birichsiga: manti
+    salat: fransuzki
+    ichishmilk : cofee
+    diser: pirojni
+    ummumi xisobda: 22000 so'm tolandi
+    
+    ismi: mirafzal
+    telefon raqami: 2340923409
+    birichsiga: manti
+    salat: fransuzki
+    ichishmilk : cofee
+    diser: & C:/Users/HP/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/HP/Desktop/pythonProject/menu.py
+    ummumi xisobda: 14000 so'm tolandi
+            
+    ismi: mirafzal
+    telefon raqami: 20394832409
+    birichsiga: manti
+    salat: fransuzki
+    ichishmilk : choy qora kok
+    diser: tort qaymoqli
+    ummumi xisobda: 31000 so'm tolandi
+            
+    ismi: mirafzal
+    telefon raqami: 942182609
+    birichsiga: manti
+    salat: fransuzki
+    ichishmilk : coffee
+    diser: pirojni
+    ummumi xisobda: 27000 so'm tolandi
+            
+    ismi: mirafzal
+    telefon raqami: 2345234
+    birichsiga: shorva
+    salat: fransuzki
+    ichishmilk : coffe
+    diser: muz_qaymoq
+    ummumi xisobda: 42000 so'm tolandi
+            
+    ismi: mirafzal
+    telefon raqami: 345425234
+    birichsiga: qozon kabob
+    salat: mujskoi_kapriz
+    ichishmilk : coffee
+    diser: pirojni
+    ummumi xisobda: 53000 so'm tolandi
+            
